@@ -1,0 +1,3 @@
+com\yehongzhi\springcloud\consumer\ConsumerApplication.class
+com\yehongzhi\springcloud\consumer\feign\ProviderClient.class
+com\yehongzhi\springcloud\consumer\controller\ConsumerController.class

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecf2814a-9d10-4e0c-9aff-2270d9a78257" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/feign-plus" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/context/FeignContextHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/context/FeignContextHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/contract/AnnotatedParameterProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/contract/AnnotatedParameterProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/contract/CollectionFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/contract/CollectionFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/contract/FeignUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/contract/FeignUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/contract/HttpEncoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/contract/HttpEncoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/contract/SpringMvcContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/contract/SpringMvcContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/contract/SpringQueryMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/contract/SpringQueryMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/contract/annotation/MatrixVariableParameterProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/contract/annotation/MatrixVariableParameterProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/contract/annotation/PathVariableParameterProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/contract/annotation/PathVariableParameterProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/contract/annotation/QueryMapParameterProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/contract/annotation/QueryMapParameterProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/contract/annotation/RequestBodyProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/contract/annotation/RequestHeaderParameterProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/contract/annotation/RequestHeaderParameterProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/contract/annotation/RequestParamParameterProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/contract/annotation/RequestParamParameterProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/contract/annotation/RequestPartParameterProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/contract/annotation/RequestPartParameterProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/decoder/FeignErrorDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/decoder/FeignErrorDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/decoder/FeignExceptionDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/decoder/FeignExceptionDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/decoder/FeignPlusDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/decoder/FeignPlusDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/factory/FeignPlusBeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/factory/FeignPlusBeanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/intercept/FeignInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/intercept/FeignInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/log/DefaultLogInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/log/DefaultLogInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/log/FeignLogInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/log/FeignLogInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/metrics/Metrics.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/metrics/Metrics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/register/EnableFeignPlusClients.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/register/EnableFeignPlusClients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/register/FeignPlusClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/register/FeignPlusClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/register/FeignPlusClientScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/register/FeignPlusClientScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/register/FeignPlusClientsRegistrar.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/register/FeignPlusClientsRegistrar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/springboot/FeignPlusAutoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/springboot/FeignPlusAutoConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/springboot/FeignPlusConfigurationProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/springboot/FeignPlusConfigurationProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/java/top/crossoverjie/feign/plus/springboot/FeignSpringContextHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/springboot/FeignSpringContextHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/test/java/top/crossoverjie/feign/test/GitHubRes.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/test/java/top/crossoverjie/feign/test/GitHubRes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/test/java/top/crossoverjie/feign/test/Github.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/test/java/top/crossoverjie/feign/test/Github.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/test/java/top/crossoverjie/feign/test/SpringBootTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/test/java/top/crossoverjie/feign/test/SpringBootTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-plus/src/test/resources/application-test0.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/feign-plus/src/test/resources/application-test0.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/feign-plus" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="4c6ef3f6-81f2-4c42-8c52-6f25fe082ecb" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\tools\maven\maven-repository" />
+        <option name="mavenHome" value="E:/tools/maven/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="E:\tools\maven\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2CpLZLpQDbxSroB6PHBPABRtoVG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../feign-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\allinpay\Desktop\example-main\feign-plus\src\main\java\top\crossoverjie\feign\plus\decoder" />
+      <recent name="C:\Users\allinpay\Desktop\example-main\provider\src\main\java\com\yehongzhi\springcloud\provider\exception" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ming.provider.controller" />
+      <recent name="com.yehongzhi.springcloud.config" />
+      <recent name="com.yehongzhi.springcloud.exception" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ProviderController (1)">
+    <configuration name="ConsumerController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yehongzhi.springcloud.consumer.controller.ConsumerController" />
+      <module name="consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yehongzhi.springcloud.consumer.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderController (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ming.provider.controller.ProviderController" />
+      <module name="provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ming.provider.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yehongzhi.springcloud.provider.controller.ProviderController" />
+      <module name="provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yehongzhi.springcloud.provider.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ming.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ming.consumer.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ming.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ming.provider.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConsumerController" />
+      <item itemvalue="Application.ProviderController" />
+      <item itemvalue="Application.ProviderController (1)" />
+      <item itemvalue="Spring Boot.ProviderApplication" />
+      <item itemvalue="Spring Boot.ConsumerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ProviderApplication" />
+        <item itemvalue="Spring Boot.ConsumerApplication" />
+        <item itemvalue="Application.ProviderController (1)" />
+        <item itemvalue="Application.ProviderController" />
+        <item itemvalue="Application.ConsumerController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\allinpay\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecf2814a-9d10-4e0c-9aff-2270d9a78257" name="Default Changelist" comment="" />
+      <created>1659494633903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659494633903</updated>
+      <workItem from="1659494636102" duration="27454000" />
+      <workItem from="1659665601235" duration="7603000" />
+      <workItem from="1659920721915" duration="14133000" />
+      <workItem from="1660095301472" duration="8590000" />
+      <workItem from="1660116839295" duration="285000" />
+      <workItem from="1660117635541" duration="6000" />
+      <workItem from="1660117675797" duration="2138000" />
+      <workItem from="1660120388847" duration="3800000" />
+      <workItem from="1660181221102" duration="2521000" />
+      <workItem from="1660184146837" duration="11000" />
+      <workItem from="1660289296650" duration="2510000" />
+      <workItem from="1660527868185" duration="1192000" />
+      <workItem from="1660543585268" duration="1205000" />
+      <workItem from="1660554859422" duration="1629000" />
+      <workItem from="1660617968313" duration="777000" />
+      <workItem from="1661220014852" duration="1163000" />
+      <workItem from="1661224101446" duration="4728000" />
+      <workItem from="1661752279063" duration="167000" />
+      <workItem from="1661759468764" duration="144000" />
+      <workItem from="1661857395808" duration="79000" />
+      <workItem from="1663038442549" duration="586000" />
+      <workItem from="1663057149373" duration="4519000" />
+      <workItem from="1667199819065" duration="6462000" />
+      <workItem from="1667267474066" duration="690000" />
+      <workItem from="1667268906046" duration="964000" />
+      <workItem from="1667271096084" duration="768000" />
+      <workItem from="1667547956624" duration="2346000" />
+      <workItem from="1667550356962" duration="616000" />
+      <workItem from="1667787218147" duration="1393000" />
+      <workItem from="1667894719655" duration="889000" />
+      <workItem from="1667973142964" duration="637000" />
+      <workItem from="1668045461352" duration="41000" />
+      <workItem from="1668648738375" duration="467000" />
+      <workItem from="1668652641035" duration="11166000" />
+      <workItem from="1668676134541" duration="878000" />
+      <workItem from="1669010739094" duration="702000" />
+      <workItem from="1669084215955" duration="971000" />
+      <workItem from="1669615793985" duration="1565000" />
+      <workItem from="1669617550704" duration="226000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/tools/maven/maven-repository/top/crossoverjie/opensource/feign-plus/0.0.2/feign-plus-0.0.2.jar!/top/crossoverjie/feign/plus/register/FeignPlusClientsRegistrar.class</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/tools/maven/maven-repository/top/crossoverjie/opensource/feign-plus/0.0.2/feign-plus-0.0.2.jar!/top/crossoverjie/feign/plus/register/FeignPlusClientScanner.class</url>
+          <line>46</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/tools/maven/maven-repository/top/crossoverjie/opensource/feign-plus/0.0.2/feign-plus-0.0.2.jar!/top/crossoverjie/feign/plus/register/FeignPlusClientScanner.class</url>
+          <line>47</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/tools/maven/maven-repository/top/crossoverjie/opensource/feign-plus/0.0.2/feign-plus-0.0.2.jar!/top/crossoverjie/feign/plus/register/FeignPlusClientScanner.class</url>
+          <line>49</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/consumer/src/main/java/com/ming/consumer/config/FeignExceptionConfig.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/feign-plus/src/main/java/top/ming/feign/plus/decoder/FeignPlusDecoder.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/tools/maven/maven-repository/io/github/openfeign/feign-gson/10.10.1/feign-gson-10.10.1.jar!/feign/gson/GsonDecoder.class</url>
+          <line>37</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/tools/maven/maven-repository/io/github/openfeign/feign-gson/10.10.1/feign-gson-10.10.1.jar!/feign/gson/GsonDecoder.class</url>
+          <line>39</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/tools/maven/maven-repository/io/github/openfeign/feign-jackson/10.10.1/feign-jackson-10.10.1.jar!/feign/jackson/JacksonDecoder.class</url>
+          <line>50</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/tools/maven/maven-repository/com/fasterxml/jackson/core/jackson-databind/2.11.0/jackson-databind-2.11.0.jar!/com/fasterxml/jackson/databind/ObjectMapper.class</url>
+          <line>1814</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+        <PinnedItemInfo parentTag="feign.Request" memberName="requestTemplate" />
+        <PinnedItemInfo parentTag="org.json.JSONObject" memberName="map" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="body" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
